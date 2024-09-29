@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <button><a href="/greeting">Demo</a></button>
+    <h1>Book Management</h1>
+    <button><a href="/welcome">Click Me</a></button>
 </body>
 </html>
